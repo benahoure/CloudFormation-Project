@@ -1,6 +1,4 @@
-Here's an enhanced version of your README that demonstrates your understanding and expertise. I’ve removed the “Additional Tasks” section and refined the steps for clarity and technical depth.
-
----
+You are reading a more detailed approach of my project. 
 
 # CloudFormation Apache Web Server Project
 
